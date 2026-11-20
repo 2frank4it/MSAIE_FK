@@ -1,4 +1,9 @@
 body {
+<<<<<<< Updated upstream
     background-color: rgb(184, 184, 234); 
     color: rgb(50, 50, 50);
+=======
+    background-color: blue; 
+    color: rgb(255, 243, 80);
+>>>>>>> Stashed changes
 }
